@@ -1,0 +1,438 @@
+{
+  "version": "1.0",
+  "description": "予福安作品集 - 作品配置文件。编辑此文件即可更新网站作品，无需修改网站代码。",
+  "cdn_base": "https://cdn.jsdelivr.net/gh/GYFOOTXY/portfolio-images@main/",
+  "carousel_work_indices": [
+    0,
+    1,
+    2,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    12
+  ],
+  "works": [
+    {
+      "id": "work-1",
+      "name": "ACTION TOP | 全铝烟托烟灰缸设计",
+      "cat": "产品设计及物料延展",
+      "description": "",
+      "images": [
+        "works/01_ACTION TOP _ 全铝烟托烟灰缸设计/01.webp",
+        "works/01_ACTION TOP _ 全铝烟托烟灰缸设计/02.webp",
+        "works/01_ACTION TOP _ 全铝烟托烟灰缸设计/03.webp",
+        "works/01_ACTION TOP _ 全铝烟托烟灰缸设计/04.webp",
+        "works/01_ACTION TOP _ 全铝烟托烟灰缸设计/05.webp",
+        "works/01_ACTION TOP _ 全铝烟托烟灰缸设计/06.webp",
+        "works/01_ACTION TOP _ 全铝烟托烟灰缸设计/07.webp",
+        "works/01_ACTION TOP _ 全铝烟托烟灰缸设计/08.webp"
+      ],
+      "video": "",
+      "showInCarousel": true
+    },
+    {
+      "id": "work-2",
+      "name": "简杉 | 日化用品初创品牌视觉设计",
+      "cat": "日化品牌视觉",
+      "description": "",
+      "images": [
+        "works/02_简杉 _ 日化用品初创品牌视觉设计/01.webp",
+        "works/02_简杉 _ 日化用品初创品牌视觉设计/02.webp",
+        "works/02_简杉 _ 日化用品初创品牌视觉设计/03.webp",
+        "works/02_简杉 _ 日化用品初创品牌视觉设计/04.webp",
+        "works/02_简杉 _ 日化用品初创品牌视觉设计/05.webp",
+        "works/02_简杉 _ 日化用品初创品牌视觉设计/06.webp",
+        "works/02_简杉 _ 日化用品初创品牌视觉设计/07.webp",
+        "works/02_简杉 _ 日化用品初创品牌视觉设计/08.webp",
+        "works/02_简杉 _ 日化用品初创品牌视觉设计/09.webp",
+        "works/02_简杉 _ 日化用品初创品牌视觉设计/10.webp",
+        "works/02_简杉 _ 日化用品初创品牌视觉设计/11.webp",
+        "works/02_简杉 _ 日化用品初创品牌视觉设计/12.webp",
+        "works/02_简杉 _ 日化用品初创品牌视觉设计/13.webp",
+        "works/02_简杉 _ 日化用品初创品牌视觉设计/14.webp",
+        "works/02_简杉 _ 日化用品初创品牌视觉设计/15.webp",
+        "works/02_简杉 _ 日化用品初创品牌视觉设计/16.webp",
+        "works/02_简杉 _ 日化用品初创品牌视觉设计/17.webp",
+        "works/02_简杉 _ 日化用品初创品牌视觉设计/18.webp",
+        "works/02_简杉 _ 日化用品初创品牌视觉设计/19.webp",
+        "works/02_简杉 _ 日化用品初创品牌视觉设计/20.webp",
+        "works/02_简杉 _ 日化用品初创品牌视觉设计/21.webp",
+        "works/02_简杉 _ 日化用品初创品牌视觉设计/22.webp",
+        "works/02_简杉 _ 日化用品初创品牌视觉设计/23.webp",
+        "works/02_简杉 _ 日化用品初创品牌视觉设计/24.webp",
+        "works/02_简杉 _ 日化用品初创品牌视觉设计/25.webp",
+        "works/02_简杉 _ 日化用品初创品牌视觉设计/26.webp"
+      ],
+      "video": "",
+      "showInCarousel": true
+    },
+    {
+      "id": "work-3",
+      "name": "农夫山泉 | 品牌视觉延展",
+      "cat": "电商直播视觉",
+      "description": "",
+      "images": [
+        "works/03_农夫山泉 _ 品牌视觉延展/01.webp",
+        "works/03_农夫山泉 _ 品牌视觉延展/02.webp",
+        "works/03_农夫山泉 _ 品牌视觉延展/03.webp",
+        "works/03_农夫山泉 _ 品牌视觉延展/04.webp",
+        "works/03_农夫山泉 _ 品牌视觉延展/05.webp",
+        "works/03_农夫山泉 _ 品牌视觉延展/06.webp",
+        "works/03_农夫山泉 _ 品牌视觉延展/07.webp",
+        "works/03_农夫山泉 _ 品牌视觉延展/08.webp",
+        "works/03_农夫山泉 _ 品牌视觉延展/09.webp"
+      ],
+      "video": "",
+      "showInCarousel": true
+    },
+    {
+      "id": "work-4",
+      "name": "SEVENCITY IMAGE | 抖音人像海报",
+      "cat": "社交平台海报",
+      "description": "",
+      "images": [
+        "works/04_SEVENCITY IMAGE _ 抖音人像海报/01.jpg",
+        "works/04_SEVENCITY IMAGE _ 抖音人像海报/02.jpg",
+        "works/04_SEVENCITY IMAGE _ 抖音人像海报/03.jpg",
+        "works/04_SEVENCITY IMAGE _ 抖音人像海报/04.jpg",
+        "works/04_SEVENCITY IMAGE _ 抖音人像海报/05.jpg",
+        "works/04_SEVENCITY IMAGE _ 抖音人像海报/06.jpg",
+        "works/04_SEVENCITY IMAGE _ 抖音人像海报/07.jpg",
+        "works/04_SEVENCITY IMAGE _ 抖音人像海报/08.jpg",
+        "works/04_SEVENCITY IMAGE _ 抖音人像海报/09.jpg",
+        "works/04_SEVENCITY IMAGE _ 抖音人像海报/10.jpg",
+        "works/04_SEVENCITY IMAGE _ 抖音人像海报/11.jpg",
+        "works/04_SEVENCITY IMAGE _ 抖音人像海报/12.jpg",
+        "works/04_SEVENCITY IMAGE _ 抖音人像海报/13.jpg",
+        "works/04_SEVENCITY IMAGE _ 抖音人像海报/14.jpg",
+        "works/04_SEVENCITY IMAGE _ 抖音人像海报/15.jpg",
+        "works/04_SEVENCITY IMAGE _ 抖音人像海报/16.jpg",
+        "works/04_SEVENCITY IMAGE _ 抖音人像海报/17.jpg",
+        "works/04_SEVENCITY IMAGE _ 抖音人像海报/18.jpg"
+      ],
+      "video": "",
+      "showInCarousel": false
+    },
+    {
+      "id": "work-5",
+      "name": "瑞尔医疗  | 品牌视觉识别手册",
+      "cat": "品牌 VI 设计",
+      "description": "",
+      "images": [
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/01.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/02.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/03.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/04.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/05.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/06.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/07.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/08.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/09.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/10.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/11.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/12.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/13.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/14.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/15.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/16.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/17.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/18.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/19.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/20.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/21.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/22.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/23.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/24.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/25.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/26.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/27.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/28.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/29.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/30.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/31.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/32.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/33.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/34.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/35.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/36.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/37.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/38.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/39.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/40.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/41.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/42.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/43.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/44.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/45.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/46.webp",
+        "works/05_瑞尔医疗  _ 品牌视觉识别手册/47.webp"
+      ],
+      "video": "",
+      "showInCarousel": true
+    },
+    {
+      "id": "work-6",
+      "name": "恩迪创新 |  品牌新媒体配图设计",
+      "cat": "品牌视觉延展",
+      "description": "",
+      "images": [
+        "works/06_恩迪创新 _  品牌新媒体配图设计/01.webp",
+        "works/06_恩迪创新 _  品牌新媒体配图设计/02.webp",
+        "works/06_恩迪创新 _  品牌新媒体配图设计/03.webp",
+        "works/06_恩迪创新 _  品牌新媒体配图设计/04.webp",
+        "works/06_恩迪创新 _  品牌新媒体配图设计/05.webp",
+        "works/06_恩迪创新 _  品牌新媒体配图设计/06.webp",
+        "works/06_恩迪创新 _  品牌新媒体配图设计/07.webp",
+        "works/06_恩迪创新 _  品牌新媒体配图设计/08.webp",
+        "works/06_恩迪创新 _  品牌新媒体配图设计/09.webp",
+        "works/06_恩迪创新 _  品牌新媒体配图设计/10.webp"
+      ],
+      "video": "",
+      "showInCarousel": true
+    },
+    {
+      "id": "work-7",
+      "name": "HUKURU移动滑轮套装 | 亚马逊电商设计",
+      "cat": "跨境电商视觉设计",
+      "description": "",
+      "images": [
+        "works/07_HUKURU移动滑轮套装 _ 亚马逊电商设计/01.webp",
+        "works/07_HUKURU移动滑轮套装 _ 亚马逊电商设计/02.webp",
+        "works/07_HUKURU移动滑轮套装 _ 亚马逊电商设计/03.webp",
+        "works/07_HUKURU移动滑轮套装 _ 亚马逊电商设计/04.webp",
+        "works/07_HUKURU移动滑轮套装 _ 亚马逊电商设计/05.webp",
+        "works/07_HUKURU移动滑轮套装 _ 亚马逊电商设计/06.webp",
+        "works/07_HUKURU移动滑轮套装 _ 亚马逊电商设计/07.webp",
+        "works/07_HUKURU移动滑轮套装 _ 亚马逊电商设计/08.webp",
+        "works/07_HUKURU移动滑轮套装 _ 亚马逊电商设计/09.webp"
+      ],
+      "video": "",
+      "showInCarousel": true
+    },
+    {
+      "id": "work-8",
+      "name": "食品级透明储物盒 | 亚马逊电商视觉设计",
+      "cat": "跨境电商视觉设计",
+      "description": "",
+      "images": [
+        "works/08_食品级透明储物盒 _ 亚马逊电商视觉设计/01.webp",
+        "works/08_食品级透明储物盒 _ 亚马逊电商视觉设计/02.webp",
+        "works/08_食品级透明储物盒 _ 亚马逊电商视觉设计/03.webp",
+        "works/08_食品级透明储物盒 _ 亚马逊电商视觉设计/04.webp",
+        "works/08_食品级透明储物盒 _ 亚马逊电商视觉设计/05.webp",
+        "works/08_食品级透明储物盒 _ 亚马逊电商视觉设计/06.webp",
+        "works/08_食品级透明储物盒 _ 亚马逊电商视觉设计/07.webp",
+        "works/08_食品级透明储物盒 _ 亚马逊电商视觉设计/08.webp",
+        "works/08_食品级透明储物盒 _ 亚马逊电商视觉设计/09.webp"
+      ],
+      "video": "",
+      "showInCarousel": true
+    },
+    {
+      "id": "work-9",
+      "name": "多功能收纳箱 | 亚马逊电商设计",
+      "cat": "跨境电商视觉视觉",
+      "description": "",
+      "images": [
+        "works/09_多功能收纳箱 _ 亚马逊电商设计/01.webp",
+        "works/09_多功能收纳箱 _ 亚马逊电商设计/02.webp",
+        "works/09_多功能收纳箱 _ 亚马逊电商设计/03.webp",
+        "works/09_多功能收纳箱 _ 亚马逊电商设计/04.webp",
+        "works/09_多功能收纳箱 _ 亚马逊电商设计/05.webp",
+        "works/09_多功能收纳箱 _ 亚马逊电商设计/06.webp",
+        "works/09_多功能收纳箱 _ 亚马逊电商设计/07.webp",
+        "works/09_多功能收纳箱 _ 亚马逊电商设计/08.webp",
+        "works/09_多功能收纳箱 _ 亚马逊电商设计/09.webp"
+      ],
+      "video": "",
+      "showInCarousel": true
+    },
+    {
+      "id": "work-10",
+      "name": "三折垫床垫 | 主图与sku设计",
+      "cat": "跨境电商视觉设计",
+      "description": "",
+      "images": [
+        "works/10_三折垫床垫 _ 主图与sku设计/01.webp",
+        "works/10_三折垫床垫 _ 主图与sku设计/02.webp",
+        "works/10_三折垫床垫 _ 主图与sku设计/03.webp",
+        "works/10_三折垫床垫 _ 主图与sku设计/04.webp",
+        "works/10_三折垫床垫 _ 主图与sku设计/05.webp",
+        "works/10_三折垫床垫 _ 主图与sku设计/06.webp",
+        "works/10_三折垫床垫 _ 主图与sku设计/07.webp",
+        "works/10_三折垫床垫 _ 主图与sku设计/08.webp",
+        "works/10_三折垫床垫 _ 主图与sku设计/09.webp"
+      ],
+      "video": "",
+      "showInCarousel": true
+    },
+    {
+      "id": "work-11",
+      "name": "医疗清洁用品 | 亚马逊电商视觉设计",
+      "cat": "跨境电商视觉设计",
+      "description": "",
+      "images": [
+        "works/11_医疗清洁用品 _ 亚马逊电商视觉设计/01.webp",
+        "works/11_医疗清洁用品 _ 亚马逊电商视觉设计/02.webp",
+        "works/11_医疗清洁用品 _ 亚马逊电商视觉设计/03.webp",
+        "works/11_医疗清洁用品 _ 亚马逊电商视觉设计/04.webp",
+        "works/11_医疗清洁用品 _ 亚马逊电商视觉设计/05.webp",
+        "works/11_医疗清洁用品 _ 亚马逊电商视觉设计/06.webp"
+      ],
+      "video": "",
+      "showInCarousel": true
+    },
+    {
+      "id": "work-12",
+      "name": "加湿净化一体机 | 亚马逊视觉设计",
+      "cat": "跨境电商视觉设计",
+      "description": "",
+      "images": [
+        "works/12_加湿净化一体机 _ 亚马逊视觉设计/01.webp",
+        "works/12_加湿净化一体机 _ 亚马逊视觉设计/02.webp",
+        "works/12_加湿净化一体机 _ 亚马逊视觉设计/03.webp",
+        "works/12_加湿净化一体机 _ 亚马逊视觉设计/04.webp",
+        "works/12_加湿净化一体机 _ 亚马逊视觉设计/05.webp",
+        "works/12_加湿净化一体机 _ 亚马逊视觉设计/06.webp",
+        "works/12_加湿净化一体机 _ 亚马逊视觉设计/07.webp",
+        "works/12_加湿净化一体机 _ 亚马逊视觉设计/08.webp",
+        "works/12_加湿净化一体机 _ 亚马逊视觉设计/09.webp",
+        "works/12_加湿净化一体机 _ 亚马逊视觉设计/10.webp",
+        "works/12_加湿净化一体机 _ 亚马逊视觉设计/11.webp",
+        "works/12_加湿净化一体机 _ 亚马逊视觉设计/12.webp"
+      ],
+      "video": "",
+      "showInCarousel": true
+    },
+    {
+      "id": "work-13",
+      "name": "Quay Chairs  | 户外椅产品动画",
+      "cat": "3D 产品动画",
+      "description": "",
+      "images": [
+        "works/13_Quay Chairs  _ 户外椅产品动画/01.webp",
+        "works/13_Quay Chairs  _ 户外椅产品动画/video_02.mp4"
+      ],
+      "video": "",
+      "showInCarousel": true
+    },
+    {
+      "id": "work-14",
+      "name": "ACTION TOP | 蜂窝瓦楞纸礼盒",
+      "cat": "包装设计",
+      "description": "",
+      "images": [
+        "works/14_ACTION TOP _ 蜂窝瓦楞纸礼盒/01.webp",
+        "works/14_ACTION TOP _ 蜂窝瓦楞纸礼盒/02.webp",
+        "works/14_ACTION TOP _ 蜂窝瓦楞纸礼盒/03.webp",
+        "works/14_ACTION TOP _ 蜂窝瓦楞纸礼盒/04.webp",
+        "works/14_ACTION TOP _ 蜂窝瓦楞纸礼盒/05.webp",
+        "works/14_ACTION TOP _ 蜂窝瓦楞纸礼盒/06.webp"
+      ],
+      "video": "",
+      "showInCarousel": true
+    },
+    {
+      "id": "work-15",
+      "name": "天虹 | 歌王争霸视觉设计",
+      "cat": "活动主题视觉设计",
+      "description": "",
+      "images": [
+        "works/15_天虹 _ 歌王争霸视觉设计/01.webp",
+        "works/15_天虹 _ 歌王争霸视觉设计/02.webp",
+        "works/15_天虹 _ 歌王争霸视觉设计/03.webp",
+        "works/15_天虹 _ 歌王争霸视觉设计/04.webp",
+        "works/15_天虹 _ 歌王争霸视觉设计/05.webp",
+        "works/15_天虹 _ 歌王争霸视觉设计/06.webp",
+        "works/15_天虹 _ 歌王争霸视觉设计/07.webp",
+        "works/15_天虹 _ 歌王争霸视觉设计/08.webp",
+        "works/15_天虹 _ 歌王争霸视觉设计/09.webp",
+        "works/15_天虹 _ 歌王争霸视觉设计/10.webp",
+        "works/15_天虹 _ 歌王争霸视觉设计/11.webp"
+      ],
+      "video": "",
+      "showInCarousel": true
+    },
+    {
+      "id": "work-16",
+      "name": "EXG亦修阁 | 展会三折页物料设计",
+      "cat": "宣传册设计",
+      "description": "",
+      "images": [
+        "works/16_EXG亦修阁 _ 展会三折页物料设计/01.webp",
+        "works/16_EXG亦修阁 _ 展会三折页物料设计/02.webp",
+        "works/16_EXG亦修阁 _ 展会三折页物料设计/03.webp",
+        "works/16_EXG亦修阁 _ 展会三折页物料设计/04.webp"
+      ],
+      "video": "",
+      "showInCarousel": true
+    },
+    {
+      "id": "work-17",
+      "name": "安吉白茶 | 茶叶详情页",
+      "cat": "电商设计",
+      "description": "",
+      "images": [
+        "works/17_安吉白茶 _ 茶叶详情页/01.webp",
+        "works/17_安吉白茶 _ 茶叶详情页/02.webp",
+        "works/17_安吉白茶 _ 茶叶详情页/03.webp",
+        "works/17_安吉白茶 _ 茶叶详情页/04.webp"
+      ],
+      "video": "",
+      "showInCarousel": true
+    },
+    {
+      "id": "work-18",
+      "name": "折叠导演椅 | 产品平面物料设计",
+      "cat": "导演椅物料及视觉设计",
+      "description": "",
+      "images": [
+        "works/18_折叠导演椅 _ 产品平面物料设计/01.webp",
+        "works/18_折叠导演椅 _ 产品平面物料设计/02.webp",
+        "works/18_折叠导演椅 _ 产品平面物料设计/03.webp",
+        "works/18_折叠导演椅 _ 产品平面物料设计/04.webp",
+        "works/18_折叠导演椅 _ 产品平面物料设计/05.webp",
+        "works/18_折叠导演椅 _ 产品平面物料设计/06.webp"
+      ],
+      "video": "",
+      "showInCarousel": true
+    },
+    {
+      "id": "work-19",
+      "name": "黄杜山 | 安吉白茶全新升级包装",
+      "cat": "包装设计",
+      "description": "",
+      "images": [
+        "works/19_黄杜山 _ 安吉白茶全新升级包装/01.webp",
+        "works/19_黄杜山 _ 安吉白茶全新升级包装/02.webp",
+        "works/19_黄杜山 _ 安吉白茶全新升级包装/03.webp"
+      ],
+      "video": "",
+      "showInCarousel": true
+    },
+    {
+      "id": "work-20",
+      "name": "ACTION TOP | 台球赛事活动kv",
+      "cat": "赛事kv视觉设计",
+      "description": "",
+      "images": [
+        "works/20_ACTION TOP _ 台球赛事活动kv/01.webp",
+        "works/20_ACTION TOP _ 台球赛事活动kv/02.webp"
+      ],
+      "video": "",
+      "showInCarousel": true
+    }
+  ]
+}
