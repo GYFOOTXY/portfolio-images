@@ -450,6 +450,17 @@
       ],
       "video": "",
       "showInCarousel": false
+    },
+    {
+      "id": "work-22",
+      "name": "新作品标题",
+      "cat": "精华液渲染图",
+      "description": "精华液渲染图精华液渲染图精华液渲染图精华液渲染图",
+      "images": [
+        "works/22_新作品标题/01.jpg"
+      ],
+      "video": "",
+      "showInCarousel": false
     }
   ]
 }
