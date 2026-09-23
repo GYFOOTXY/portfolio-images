@@ -1,28 +1,8 @@
 {
   "version": "1.0",
-  "description": "予福安作品集 - 作品配置文件。编辑此文件即可更新网站作品，无需修改网站代码。",
+  "description": "予福安作品集 - 作品配置文件",
   "cdn_base": "https://cdn.jsdelivr.net/gh/GYFOOTXY/portfolio-images@main/",
-  "carousel_work_indices": [
-    0,
-    1,
-    2,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    13,
-    14,
-    15,
-    16,
-    17,
-    18,
-    19,
-    12
-  ],
+  "carousel_work_indices": [],
   "works": [
     {
       "id": "work-1",
@@ -40,7 +20,7 @@
         "works/01_ACTION TOP _ 全铝烟托烟灰缸设计/08.webp"
       ],
       "video": "",
-      "showInCarousel": true
+      "showInCarousel": false
     },
     {
       "id": "work-2",
@@ -76,7 +56,7 @@
         "works/02_简杉 _ 日化用品初创品牌视觉设计/26.webp"
       ],
       "video": "",
-      "showInCarousel": true
+      "showInCarousel": false
     },
     {
       "id": "work-3",
@@ -95,7 +75,7 @@
         "works/03_农夫山泉 _ 品牌视觉延展/09.webp"
       ],
       "video": "",
-      "showInCarousel": true
+      "showInCarousel": false
     },
     {
       "id": "work-4",
@@ -180,7 +160,7 @@
         "works/05_瑞尔医疗  _ 品牌视觉识别手册/47.webp"
       ],
       "video": "",
-      "showInCarousel": true
+      "showInCarousel": false
     },
     {
       "id": "work-6",
@@ -200,7 +180,7 @@
         "works/06_恩迪创新 _  品牌新媒体配图设计/10.webp"
       ],
       "video": "",
-      "showInCarousel": true
+      "showInCarousel": false
     },
     {
       "id": "work-7",
@@ -219,7 +199,7 @@
         "works/07_HUKURU移动滑轮套装 _ 亚马逊电商设计/09.webp"
       ],
       "video": "",
-      "showInCarousel": true
+      "showInCarousel": false
     },
     {
       "id": "work-8",
@@ -238,7 +218,7 @@
         "works/08_食品级透明储物盒 _ 亚马逊电商视觉设计/09.webp"
       ],
       "video": "",
-      "showInCarousel": true
+      "showInCarousel": false
     },
     {
       "id": "work-9",
@@ -257,7 +237,7 @@
         "works/09_多功能收纳箱 _ 亚马逊电商设计/09.webp"
       ],
       "video": "",
-      "showInCarousel": true
+      "showInCarousel": false
     },
     {
       "id": "work-10",
@@ -276,7 +256,7 @@
         "works/10_三折垫床垫 _ 主图与sku设计/09.webp"
       ],
       "video": "",
-      "showInCarousel": true
+      "showInCarousel": false
     },
     {
       "id": "work-11",
@@ -292,7 +272,7 @@
         "works/11_医疗清洁用品 _ 亚马逊电商视觉设计/06.webp"
       ],
       "video": "",
-      "showInCarousel": true
+      "showInCarousel": false
     },
     {
       "id": "work-12",
@@ -314,7 +294,7 @@
         "works/12_加湿净化一体机 _ 亚马逊视觉设计/12.webp"
       ],
       "video": "",
-      "showInCarousel": true
+      "showInCarousel": false
     },
     {
       "id": "work-13",
@@ -326,7 +306,7 @@
         "works/13_Quay Chairs  _ 户外椅产品动画/video_02.mp4"
       ],
       "video": "",
-      "showInCarousel": true
+      "showInCarousel": false
     },
     {
       "id": "work-14",
@@ -342,7 +322,7 @@
         "works/14_ACTION TOP _ 蜂窝瓦楞纸礼盒/06.webp"
       ],
       "video": "",
-      "showInCarousel": true
+      "showInCarousel": false
     },
     {
       "id": "work-15",
@@ -363,7 +343,7 @@
         "works/15_天虹 _ 歌王争霸视觉设计/11.webp"
       ],
       "video": "",
-      "showInCarousel": true
+      "showInCarousel": false
     },
     {
       "id": "work-16",
@@ -377,7 +357,7 @@
         "works/16_EXG亦修阁 _ 展会三折页物料设计/04.webp"
       ],
       "video": "",
-      "showInCarousel": true
+      "showInCarousel": false
     },
     {
       "id": "work-17",
@@ -391,7 +371,7 @@
         "works/17_安吉白茶 _ 茶叶详情页/04.webp"
       ],
       "video": "",
-      "showInCarousel": true
+      "showInCarousel": false
     },
     {
       "id": "work-18",
@@ -407,7 +387,7 @@
         "works/18_折叠导演椅 _ 产品平面物料设计/06.webp"
       ],
       "video": "",
-      "showInCarousel": true
+      "showInCarousel": false
     },
     {
       "id": "work-19",
@@ -420,7 +400,7 @@
         "works/19_黄杜山 _ 安吉白茶全新升级包装/03.webp"
       ],
       "video": "",
-      "showInCarousel": true
+      "showInCarousel": false
     },
     {
       "id": "work-20",
@@ -432,7 +412,7 @@
         "works/20_ACTION TOP _ 台球赛事活动kv/02.webp"
       ],
       "video": "",
-      "showInCarousel": true
+      "showInCarousel": false
     }
   ]
 }
